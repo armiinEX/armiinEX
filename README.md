@@ -32,7 +32,7 @@ I'm a Computer Engineering student and backend developer with a focus on buildin
 
 - **Email**: armintahsiri11@gmail.com
 - **Telegram**: [@armiinths](https://t.me/armiinths)
-- **GitHub**: [github.com/armintahsiri](https://github.com/armintahsiri)
+- **GitHub**: [github.com/armiinEX](https://github.com/armiinEX)
 
 ---
 
