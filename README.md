@@ -16,8 +16,9 @@ I'm a Computer Engineering student and backend developer with a focus on buildin
 
 ## 📂 Notable Projects
 
-- **Accounting Dashboard** – A RESTful API for managing users and transactions using NestJS, PostgreSQL, and Redis
-- **Portfolio Website** – Personal website built with HTML, CSS, and basic JS (planning to upgrade with React)
+- **RESTful API with NestJS** – A user management and authentication API using NestJS, TypeScript, and PostgreSQL  
+- **Telegram Bot** – A Telegram bot written in Node.js that handles basic user interaction and command parsing  
+- **Forever Product Landing Page** – A landing page for Forever products built with HTML, CSS, and responsive design techniques  
 - *(More projects coming soon...)*
 
 ---
@@ -30,8 +31,8 @@ I'm a Computer Engineering student and backend developer with a focus on buildin
 
 ## 📫 Contact
 
-- **Email**: armintahsiri11@gmail.com
-- **Telegram**: [@armiinths](https://t.me/armiinths)
+- **Email**: armintahsiri11@gmail.com  
+- **Telegram**: [@armiinths](https://t.me/armiinths)  
 - **GitHub**: [github.com/armiinEX](https://github.com/armiinEX)
 
 ---
