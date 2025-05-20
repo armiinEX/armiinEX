@@ -24,7 +24,7 @@ I'm a Computer Engineering student and backend developer with a focus on buildin
 
 ## 📈 GitHub Stats
 
-![Armin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armintahsiri&show_icons=true&theme=gruvbox)
+![Armin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armiinEX&show_icons=true&theme=gruvbox)
 
 ---
 
